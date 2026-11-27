@@ -1,6 +1,6 @@
-# College Notice Board
+## College Notice Board Features
 
-Welcome to College Notice Board.
-
-This application displays college notices,
-exam notifications and event updates.
+1. Exam Notifications
+2. Holiday Notices
+3. College Events
+4. Student Announcements
